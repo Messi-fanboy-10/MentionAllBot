@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/harp_tech'),
-        Button.url('📦 Source', 'https://github.com/AnjanaMadu/MentionAllBot')
+        Button.url('📣 GROUP', 'https://t.me/Neymarfanskeralam'),
+        Button.url('DEV', 'https://t.me/Messi_Fanboy_10')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/harp_tech'),
-        Button.url('📦 Source', 'https://github.com/AnjanaMadu/MentionAllBot')
+        Button.url('📣 GROUP', 'https://t.me/Neymarfanskeralam'),
+        Button.url('DEV', 'https://t.me/Messi_Fanboy_10')
       ]
     )
   )
